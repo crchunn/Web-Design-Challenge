@@ -1,12 +1,14 @@
 /* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
 body {
-  background: #e4cccc;
+  background: #fafbfd;
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: bold;
-  color: rebeccapurple
+  color: rebeccapurple;
+  text-align: center;
+  padding: 1em
 }
 
 h3 {
