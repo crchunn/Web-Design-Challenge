@@ -38,10 +38,12 @@ p {
 
 /* Getting rid of the default link styles here */
 .navbar li a {
-  color: #000;
+  color: rgb(43, 21, 211);
   text-decoration: none;
 }
-
+.nav {
+  color: blue;
+}
 /* Styling the header, giving it a height, a background color, and some top padding */
 .header {
   height: 200px;
